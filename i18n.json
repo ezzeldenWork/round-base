@@ -1,0 +1,79 @@
+{
+  "locales": [
+    "ar",
+    "en"
+  ],
+  "defaultLocale": "ar",
+  "pages": {
+    "*": [
+      "common",
+      "404",
+      "login"
+    ],
+    "/blog/*": [
+      "common",
+      "404"
+    ],
+    "/": [
+      "home"
+    ],
+    "/login": [
+      "login"
+    ],
+    "/survey/[step]": [
+      "survey"
+    ],
+    "/profile": [
+      "profile"
+    ],
+    "/recommendations": [
+      "recommend"
+    ],
+    "/person": [
+      "person"
+    ],
+    "/addInvestor": [
+      "investor",
+      "person"
+    ],
+    "/investor": [
+      "investor",
+      "company",
+      "person"
+    ],
+    "/singleInvestor": [
+      "investor",
+      "company",
+      "person"
+    ],
+    "/investments": [
+      "investments"
+    ],
+    "/investmentShow": [
+      "investments"
+    ],
+    "/savedItems": [
+      "home",
+      "recommend"
+    ],
+    "/addCompany": [
+      "company",
+      "person",
+      "investor"
+    ],
+    "/company": [
+      "company",
+      "person",
+      "investor",
+      "recommend"
+    ],
+    "/explore": [
+      "explore",
+      "investor",
+      "company",
+      "survey",
+      "recommend",
+      "person"
+    ]
+  }
+}

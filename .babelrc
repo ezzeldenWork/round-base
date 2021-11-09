@@ -1,0 +1,61 @@
+{
+  "env": {
+    "development": {
+      "presets": ["next/babel", "@babel/preset-flow"]
+    },
+    "production": {
+      "presets": ["next/babel", "@babel/preset-flow"]
+    },
+
+    "test": {
+      "presets": [
+        [
+          "env",
+          {
+            "modules": "commonjs"
+          }
+        ],
+        "next/babel",
+        "@babel/preset-flow"
+      ]
+    }
+  },
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": ["."],
+        "extensions": [".tsx", ".jsx", ".js", ".json"],
+        "alias": {
+          "config": "./config",
+          "containers": "./containers",
+          "components": "./components",
+          "constants": "./constants",
+          "modules": "./modules",
+          "locales": "./locales",
+          "utils": "./utils",
+          "lib": "./lib"
+        }
+      }
+    ],
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": true
+      }
+    ],
+    "add-module-exports",
+    "@babel/plugin-proposal-export-default-from",
+    [
+      "babel-plugin-styled-components",
+      {
+        "ssr": true,
+        "displayName": true,
+        "preprocess": false
+      }
+    ],
+    "import-graphql"
+    // "transform-remove-console"
+  ]
+}

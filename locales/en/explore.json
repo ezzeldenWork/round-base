@@ -1,0 +1,19 @@
+{
+  "companies": "Companies",
+  "investors": "Investors",
+  "people": "People",
+  "filter": "Filter",
+  "clear": "Clear",
+  "activity": "Activity",
+  "location": "Location",
+  "industry": "Industry",
+  "searchActivity": "Activity Search",
+  "searchCountry": "Search for country",
+  "searchState": "Search for State",
+  "searchIndustry": "Search for Industry",
+  "companyRank": "Company Rank",
+  "headLocation": "Location",
+  "desc": "Description",
+  "editTheme": "Edit Theme",
+  "chooseColumn": "Please choose the appropriate column for you"
+}

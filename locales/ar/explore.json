@@ -1,0 +1,19 @@
+{
+  "companies": "الشركات",
+  "investors": "المستثمرين",
+  "people": "الافراد",
+  "filter": "الفلتر",
+  "clear": "مسح",
+  "activity": "النشاط",
+  "location": "الموقع",
+  "industry": "الصناعة",
+  "searchActivity": "ابحث عن النشاط",
+  "searchCountry": "ابحث عن الدوله",
+  "searchState": "ابحث عن المدينة",
+  "searchIndustry": "ابحث عن الصناعة",
+  "companyRank": "رتبة الشركة",
+  "headLocation": "موقع المقر",
+  "desc": "الوصف",
+  "editTheme": "تعديل الواجهة",
+  "chooseColumn": "يرجي اختيار العمود المناسب لك"
+}

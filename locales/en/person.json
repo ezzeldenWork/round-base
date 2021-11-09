@@ -1,0 +1,21 @@
+{
+  "personInfo": "Person Information",
+  "contactInfo": "Contact Information",
+  "address": "Address",
+  "name": "Name",
+  "mainJob": "Main Job",
+  "mainCompany": "Main Company",
+  "male": "Male",
+  "female": "Female",
+  "gender": "Gender",
+  "twitterLink": "Twitter Link",
+  "linkedLink": "linkedIn Link",
+  "facebookLink": "Facebook Link",
+  "country": "Country",
+  "state": "State",
+  "addPerson": "Add new person",
+  "add": "Add",
+  "websiteLink": "Website Link",
+  "street": "street",
+  "buildingNum": "building number"
+}

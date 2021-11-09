@@ -1,0 +1,21 @@
+{
+  "personInfo": "معلومات الشخص",
+  "contactInfo": "معلومات التواصل",
+  "address": "العنوان",
+  "name": "الاسم",
+  "mainJob": "الوظيفة الرئيسية",
+  "mainCompany": "الشركة الرئيسية",
+  "male": "ذكر",
+  "female": "أنثي",
+  "gender": "النوع",
+  "twitterLink": "رابط تويتر",
+  "linkedLink": "رابط لينكد ان",
+  "facebookLink": "رابط فيس بوك",
+  "country": "الدولة",
+  "state": "المدينة",
+  "addPerson": "اضافة شخص جديد",
+  "add": "اضافة",
+  "websiteLink": "رابط الموقع الالكتروني",
+  "street": "الشارع",
+  "buildingNum": "رقم المبني"
+}
